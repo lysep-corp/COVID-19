@@ -129,8 +129,7 @@ dmypy.json
 .pyre/
 
 # Custom 
-*.json
-*.py
-SAMPLE_README.md
 .vscode/
 .DS_Store
+*.py
+Drafts/

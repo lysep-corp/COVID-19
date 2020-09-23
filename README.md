@@ -11,15 +11,17 @@ In this we will gonna show you where is the Turkey going about [COVID-19 Pandemi
 Note: All the data coming from Türk Ministery of Health's public website. If datas are not up-to-date, probably this is about the [goverment's website](https://covid19.saglik.gov.tr) if our server's are not die. Okey, Let's start than! \
 
 First today's datas:
-## :calendar: 22.09.2020 Corona virus Datas:
+## :calendar: 23.09.2020 Corona virus Datas:
 | Data Type         | Today's Datas      | All Time Data      |
 | :---              |    :----           |     :---           |
-| Cases             | 114,311    | 303,211    |
-| Deaths            | 1,692   | 7,609   |
-| Tests             | 1,261    | 9,522,772    |
-| Cures             | 65| 269,259|
+| Cases             | 112,102    | 305,053    |
+| Deaths            | 1,767   | 7,688   |
+| Tests             | 1,027    | 9,632,665    |
+| Cures             | 72| 270,052|
 
-:clock9: `Last Update: 23.09.2020 02:07`
+:clock9: `Last Update: 23.09.2020 19:48`
 \
 \
-There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **3091** less than the goverment's case calculation. It's **30** for deaths, **26504** for tests and **437** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?
+There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **3016** less than the goverment's case calculation. It's **23** for deaths, **24295** for tests and **671** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\
+Okey, let's talk about the graphs. Here is today's data is compare with yesterdays:\
+![alt text](https://github.com/lysep-corp/COVID-19/blob/master/Graphs/YESTERDAY_COMP_TODAY_EN.jpeg?raw=true)
