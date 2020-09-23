@@ -14,12 +14,12 @@ First today's datas:
 ## :calendar: 23.09.2020 Corona virus Datas:
 | Data Type         | Today's Datas      | All Time Data      |
 | :---              |    :----           |     :---           |
-| Cases             | 112,102    | 305,053    |
-| Deaths            | 1,767   | 7,688   |
-| Tests             | 1,027    | 9,632,665    |
-| Cures             | 72| 270,052|
+| Tests             | 112,102    | 305,053    |
+| Cases             | 1,767   | 7,688   |
+| Cures             | 1,027    | 9,632,665    |
+| Deaths            | 72| 270,052|
 
-:clock9: `Last Update: 23.09.2020 19:48`
+:clock9: `Last Update: 23.09.2020 20:03`
 \
 \
 There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **3016** less than the goverment's case calculation. It's **23** for deaths, **24295** for tests and **671** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\
