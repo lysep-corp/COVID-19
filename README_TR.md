@@ -10,19 +10,19 @@ by [LYSEP CORP:registered:](https://lysep.com)
 Burada, Türkiye'nin [COVID-19 (Koronavirüs) (Hakkında bilgi almak için tıklayın...)](https://g.co/kgs/EJjcys) pandemisi sırasındaki durumunu özetleyeceğiz.
 Not: Bütün veriler, Türkiye Sağlık Bakanlığı'ndan sağlanmaktadır. Eğer veriler güncel değilse, bu büyük ihtimal [devletin web sitesi](https://covid19.saglik.gov.tr) ile alakalıdır. Tamamdır, o zaman başlayalım!
 
-First today's datas:
-## :calendar: 26.09.2020 Corona virus Datas:
-| Data Type         | Today's Datas      | All Time Data      |
+Öncelikle bugünün verileri:
+## :calendar: 27.09.2020 Koronavirüs Verileri:
+| Veri Tipi         | Bugünün Verileri   | Toplam Veriler     |
 | :---              |    :----           |     :---           |
-| Testler           | 102,009    | 9,950,783    |
-| Vakalar           | 1,511   | 309,694    |
-| Tedaviler         | 1,232    | 274,048|
-| Vefatlar          | 71| 7,905   |
+| Testler           | 101,119    | 10,051,012    |
+| Vakalar           | 1,467   | 311,117    |
+| Tedaviler         | 1,116    | 275,048|
+| Vefatlar          | 68| 7,970   |
 
-:clock9: `Son Güncelleme: 27.09.2020 03:09`
+:clock9: `Son Güncelleme: 27.09.2020 21:01`
 \
 \
-Ülkemiz ile alakalı gönderilen verilerde bir gariplik var. Devletin verdiği toplam veriler ile günlük veriler arasında uyuşmazlık mevcut. Eğer her günün verisini birbirine eklersek, Bizim hesaplamamız vakalar için **3272** tane daha az çıkıyor. Bu, ölümler için **24** , testler için **14202** ve tedavi olanlar için **466** . Neden devletimiz böyle bir şey yapıyor anlamıyoruz. YOKSA VERİLER YANLIŞ MI??!?\
+Ülkemiz ile alakalı gönderilen verilerde bir gariplik var. Devletin verdiği toplam veriler ile günlük veriler arasında uyuşmazlık mevcut. Eğer her günün verisini birbirine eklersek, Bizim hesaplamamız vakalar için **3316** tane daha az çıkıyor. Bu, ölümler için **27** , testler için **13312** ve tedavi olanlar için **582** . Neden devletimiz böyle bir şey yapıyor anlamıyoruz. YOKSA VERİLER YANLIŞ MI??!?\
 Neyse tamam, hadi grafikler hakkında konuşalım. Dünle bu günün karşılaştırma grafiği:\
 ![alt text](https://github.com/lysep-corp/COVID-19/blob/master/Graphs/YESTERDAY_COMP_TODAY_TR.jpeg?raw=true)
 
