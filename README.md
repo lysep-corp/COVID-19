@@ -2,7 +2,7 @@ Language:  [:tr: Türkçe](https://github.com/lysep-corp/COVID-19/blob/master/RE
 # :tr: **Turkey COVID-19 Datas** 
 <p align="center">
 Turkey's CovID-19 data from Turkey's Ministery of Health  <br>
-  <img src="https://dosyamerkez.saglik.gov.tr/2020webfiles/assets/images/logo.svg" width="100" title="Türkiye Ministery of Health">   <img src="https://avatars1.githubusercontent.com/u/49002083?s=100" width="100" title="LYSEP CORP">
+  <img src="https://dosyamerkez.saglik.gov.tr/2020webfiles/logolar/logo.svg" width="100" title="Türkiye Ministery of Health">   <img src="https://avatars1.githubusercontent.com/u/49002083?s=100" width="100" title="LYSEP CORP">
 </p>
 
 by [LYSEP CORP:registered:](https://lysep.com)
@@ -19,7 +19,7 @@ First today's datas:
 | Cures             | 1,297    | 13,289,813    |
 | Deaths            | 72| 315,203|
 
-:clock9: `Last Update: 25.10.2020 22:57`
+:clock9: `Last Update: 26.10.2020 10:29`
 \
 \
 There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **1612** less than the goverment's case calculation. It's **3** for deaths, **71925** for tests and **813** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\

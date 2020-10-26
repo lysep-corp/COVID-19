@@ -2,7 +2,7 @@ Language:  [:tr: Türkçe](https://github.com/lysep-corp/COVID-19/blob/master/RE
 # :tr: **Türkiye COVID-19 Verileri** 
 <p align="center">
 Türkiye Sağlık Bakanlığı'ndan alınan, resmi koronavirüs verileridir.  <br>
-  <img src="https://dosyamerkez.saglik.gov.tr/2020webfiles/assets/images/logo.svg" width="100" title="Türkiye Sağlık Bakanlığı">   <img src="https://avatars1.githubusercontent.com/u/49002083?s=100" width="100" title="LYSEP CORP">
+  <img src="https://dosyamerkez.saglik.gov.tr/2020webfiles/logolar/logo.svg" width="100" title="Türkiye Sağlık Bakanlığı">   <img src="https://avatars1.githubusercontent.com/u/49002083?s=100" width="100" title="LYSEP CORP">
 </p>
 
 by [LYSEP CORP:registered:](https://lysep.com)
@@ -19,7 +19,7 @@ Not: Bütün veriler, Türkiye Sağlık Bakanlığı'ndan sağlanmaktadır. Eğe
 | Tedaviler         | 1,297    | 315,203|
 | Vefatlar          | 72| 9,796   |
 
-:clock9: `Son Güncelleme: 25.10.2020 22:57`
+:clock9: `Son Güncelleme: 26.10.2020 10:29`
 \
 \
 Ülkemiz ile alakalı gönderilen verilerde bir gariplik var. Devletin verdiği toplam veriler ile günlük veriler arasında uyuşmazlık mevcut. Eğer her günün verisini birbirine eklersek, Bizim hesaplamamız vakalar için **1612** tane daha az çıkıyor. Bu, ölümler için **3** , testler için **71925** ve tedavi olanlar için **813** . Neden devletimiz böyle bir şey yapıyor anlamıyoruz. YOKSA VERİLER YANLIŞ MI??!?\
