@@ -11,18 +11,18 @@ In this we will gonna show you where is the Turkey going about [COVID-19 Pandemi
 Note: All the data coming from Türk Ministery of Health's public website. If datas are not up-to-date, probably this is about the [goverment's website](https://covid19.saglik.gov.tr) if our server's are not die. Okey, Let's start than!
 
 First today's datas:
-## :calendar: 25.10.2020 Corona virus Datas:
+## :calendar: 27.10.2020 Corona virus Datas:
 | Data Type         | Today's Datas      | All Time Data      |
 | :---              |    :----           |     :---           |
-| Tests             | 112,215    | 360,189    |
-| Cases             | 2,017   | 9,796   |
-| Cures             | 1,297    | 13,289,813    |
-| Deaths            | 72| 315,203|
+| Tests             | 127,651    | 364,788    |
+| Cases             | 2,209   | 9,951   |
+| Cures             | 1,511    | 13,565,813    |
+| Deaths            | 76| 318,546|
 
-:clock9: `Last Update: 26.10.2020 10:29`
+:clock9: `Last Update: 27.10.2020 19:23`
 \
 \
-There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **1612** less than the goverment's case calculation. It's **3** for deaths, **71925** for tests and **813** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\
+There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **1420** less than the goverment's case calculation. It's **1** for deaths, **87361** for tests and **1027** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\
 Okey, let's talk about the graphs. Here is today's data is compare with yesterdays:\
 ![YESTERDAY_COMP_TODAY_EN](https://github.com/lysep-corp/COVID-19/blob/master/Graphs/YESTERDAY_COMP_TODAY_EN.jpeg?raw=true)
 
