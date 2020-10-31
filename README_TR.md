@@ -19,18 +19,18 @@ Not: Bütün veriler, Türkiye Sağlık Bakanlığı'ndan sağlanmaktadır. Eğe
 | Tedaviler         | 1,506    | 324,993|
 | Vefatlar          | 75| 10,252   |
 
-:clock9: `Son Güncelleme: 01.11.2020 01:49`
+:clock9: `Son Güncelleme: 01.11.2020 01:58`
 \
 \
 Ülkemiz ile alakalı gönderilen verilerde bir gariplik var. Devletin verdiği toplam veriler ile günlük veriler arasında uyuşmazlık mevcut. Eğer her günün verisini birbirine eklersek, Bizim hesaplamamız vakalar için **1416** tane daha az çıkıyor. Bu, ölümler için **0** , testler için **83819** ve tedavi olanlar için **1022** . Neden devletimiz böyle bir şey yapıyor anlamıyoruz. YOKSA VERİLER YANLIŞ MI??!?\
 Neyse tamam, hadi grafikler hakkında konuşalım. Dünle bu günün karşılaştırma grafiği:\
-![alt text](https://github.com/lysep-corp/COVID-19/blob/master/Graphs/YESTERDAY_COMP_TODAY_TR.jpeg?raw=true)
+![Graph](https://github.com/lysep-corp/COVID-19/blob/master/Graphs/YESTERDAY_COMP_TODAY_TR.jpeg?raw=true)
 
 
 ---
 ### Burada başka bir problem var!!
 Devlet, **_YOĞUN BAKIM_** ve **_ENTÜBE_** verilerini **_29.07.2020 (son veri 28.07.2020 tarihinde)_** tarihinden beri paylaşmıyor.\
-![STOPPED_DATA](https://github.com/lysep-corp/COVID-19/blob/master/Images/StoppedData.png?raw=true)
+<img src="https://github.com/lysep-corp/COVID-19/blob/master/Images/StoppedData.png?raw=true">
 
 ---
 
