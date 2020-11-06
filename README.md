@@ -11,18 +11,18 @@ In this we will gonna show you where is the Turkey going about [COVID-19 Pandemi
 Note: All the data coming from Türk Ministery of Health's public website. If datas are not up-to-date, probably this is about the [goverment's website](https://covid19.saglik.gov.tr) if our server's are not die. Okey, Let's start than!
 
 First today's datas:
-## :calendar: 31.10.2020 Corona virus Datas:
+## :calendar: 06.11.2020 Corona virus Datas:
 | Data Type         | Today's Datas      | All Time Data      |
 | :---              |    :----           |     :---           |
-| Tests             | 124,109    | 373,951    |
-| Cases             | 2,213   | 10,252   |
-| Cures             | 1,506    | 14,085,633    |
-| Deaths            | 75| 324,993|
+| Tests             | 145,241    | 388,063    |
+| Cases             | 2,436   | 10,730   |
+| Cures             | 1,914    | 14,951,143    |
+| Deaths            | 83| 335,723|
 
-:clock9: `Last Update: 01.11.2020 01:58`
+:clock9: `Last Update: 07.11.2020 00:43`
 \
 \
-There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **1416** less than the goverment's case calculation. It's **0** for deaths, **83819** for tests and **1022** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\
+There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **1193** less than the goverment's case calculation. It's **8** for deaths, **104951** for tests and **1430** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\
 Okey, let's talk about the graphs. Here is today's data is compare with yesterdays:\
 ![YESTERDAY_COMP_TODAY_EN](https://github.com/lysep-corp/COVID-19/blob/master/Graphs/YESTERDAY_COMP_TODAY_EN.jpeg?raw=true)
 

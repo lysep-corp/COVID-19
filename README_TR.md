@@ -11,18 +11,18 @@ Burada, Türkiye'nin [COVID-19 (Koronavirüs) (Hakkında bilgi almak için tıkl
 Not: Bütün veriler, Türkiye Sağlık Bakanlığı'ndan sağlanmaktadır. Eğer veriler güncel değilse, bu büyük ihtimal [devletin web sitesi](https://covid19.saglik.gov.tr) ile alakalıdır. Tamamdır, o zaman başlayalım!
 
 Öncelikle bugünün verileri:
-## :calendar: 31.10.2020 Koronavirüs Verileri:
+## :calendar: 06.11.2020 Koronavirüs Verileri:
 | Veri Tipi         | Bugünün Verileri   | Toplam Veriler     |
 | :---              |    :----           |     :---           |
-| Testler           | 124,109    | 14,085,633    |
-| Vakalar           | 2,213   | 373,951    |
-| Tedaviler         | 1,506    | 324,993|
-| Vefatlar          | 75| 10,252   |
+| Testler           | 145,241    | 14,951,143    |
+| Vakalar           | 2,436   | 388,063    |
+| Tedaviler         | 1,914    | 335,723|
+| Vefatlar          | 83| 10,730   |
 
-:clock9: `Son Güncelleme: 01.11.2020 01:58`
+:clock9: `Son Güncelleme: 07.11.2020 00:43`
 \
 \
-Ülkemiz ile alakalı gönderilen verilerde bir gariplik var. Devletin verdiği toplam veriler ile günlük veriler arasında uyuşmazlık mevcut. Eğer her günün verisini birbirine eklersek, Bizim hesaplamamız vakalar için **1416** tane daha az çıkıyor. Bu, ölümler için **0** , testler için **83819** ve tedavi olanlar için **1022** . Neden devletimiz böyle bir şey yapıyor anlamıyoruz. YOKSA VERİLER YANLIŞ MI??!?\
+Ülkemiz ile alakalı gönderilen verilerde bir gariplik var. Devletin verdiği toplam veriler ile günlük veriler arasında uyuşmazlık mevcut. Eğer her günün verisini birbirine eklersek, Bizim hesaplamamız vakalar için **1193** tane daha az çıkıyor. Bu, ölümler için **8** , testler için **104951** ve tedavi olanlar için **1430** . Neden devletimiz böyle bir şey yapıyor anlamıyoruz. YOKSA VERİLER YANLIŞ MI??!?\
 Neyse tamam, hadi grafikler hakkında konuşalım. Dünle bu günün karşılaştırma grafiği:\
 ![Graph](https://github.com/lysep-corp/COVID-19/blob/master/Graphs/YESTERDAY_COMP_TODAY_TR.jpeg?raw=true)
 
@@ -30,7 +30,7 @@ Neyse tamam, hadi grafikler hakkında konuşalım. Dünle bu günün karşılaş
 ---
 ### Burada başka bir problem var!!
 Devlet, **_YOĞUN BAKIM_** ve **_ENTÜBE_** verilerini **_29.07.2020 (son veri 28.07.2020 tarihinde)_** tarihinden beri paylaşmıyor.\
-<img src="https://github.com/lysep-corp/COVID-19/blob/master/Images/StoppedData.png?raw=true">
+<img src="https://github.com/lysep-corp/COVID-19/blob/master/Images/StoppedData.png?raw=true" width="500">
 
 ---
 
