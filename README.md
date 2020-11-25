@@ -19,7 +19,7 @@ First today's datas:
 | Cures             | 3,911    | 17,857,777    |
 | Deaths            | 168| 388,907|
 
-:clock9: `Last Update: 25.11.2020 22:10`
+:clock9: `Last Update: 26.11.2020 01:30`
 \
 \
 There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **3185** less than the goverment's case calculation. It's **93** for deaths, **124257** for tests and **3427** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\
@@ -30,6 +30,11 @@ Okey, let's talk about the graphs. Here is today's data is compare with yesterda
 ### There is another problem is going on here!
 Goverment, stopped giving **_INTENSIVE CARE_** and **_INTUBATED_** datas since  **_29.07.2020 (last data is 28.07.2020)_**\
 <img src="https://github.com/lysep-corp/COVID-19/blob/master/Images/StoppedData.png?raw=true" width="500">
+
+---
+### Something happened again!
+When goverment's website datas and the datas which on the press doesn't support each other today, goverment removed today's data from their website sliently. (Press Data: 28.000~ - Goverment's Website: 6.000~)\
+<img src="https://github.com/lysep-corp/COVID-19/blob/master/Images/RemovedData.png?raw=true" width="700">
 
 ---
 
