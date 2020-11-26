@@ -11,18 +11,18 @@ Burada, Türkiye'nin [COVID-19 (Koronavirüs) (Hakkında bilgi almak için tıkl
 Not: Bütün veriler, Türkiye Sağlık Bakanlığı'ndan sağlanmaktadır. Eğer veriler güncel değilse, bu büyük ihtimal [devletin web sitesi](https://covid19.saglik.gov.tr) ile alakalıdır. Tamamdır, o zaman başlayalım!
 
 Öncelikle bugünün verileri:
-## :calendar: 25.11.2020 Koronavirüs Verileri:
+## :calendar: 26.11.2020 Koronavirüs Verileri:
 | Veri Tipi         | Bugünün Verileri   | Toplam Veriler     |
 | :---              |    :----           |     :---           |
-| Testler           | 164,547    | 17,857,777    |
-| Vakalar           | 6,814   | 470,915    |
-| Tedaviler         | 3,911    | 388,907|
-| Vefatlar          | 168| 12,933   |
+| Testler           | 168,348    | 18,029,926    |
+| Vakalar           | 29,132   | 86,615    |
+| Tedaviler         | 3,291    | 391,578|
+| Vefatlar          | 174| 13,113   |
 
-:clock9: `Son Güncelleme: 26.11.2020 01:30`
+:clock9: `Son Güncelleme: 26.11.2020 20:59`
 \
 \
-Ülkemiz ile alakalı gönderilen verilerde bir gariplik var. Devletin verdiği toplam veriler ile günlük veriler arasında uyuşmazlık mevcut. Eğer her günün verisini birbirine eklersek, Bizim hesaplamamız vakalar için **3185** tane daha az çıkıyor. Bu, ölümler için **93** , testler için **124257** ve tedavi olanlar için **3427** . Neden devletimiz böyle bir şey yapıyor anlamıyoruz. YOKSA VERİLER YANLIŞ MI??!?\
+Ülkemiz ile alakalı gönderilen verilerde bir gariplik var. Devletin verdiği toplam veriler ile günlük veriler arasında uyuşmazlık mevcut. Eğer her günün verisini birbirine eklersek, Bizim hesaplamamız vakalar için **387991** tane daha az çıkıyor. Bu, ölümler için **99** , testler için **128058** ve tedavi olanlar için **2807** . Neden devletimiz böyle bir şey yapıyor anlamıyoruz. YOKSA VERİLER YANLIŞ MI??!?\
 Neyse tamam, hadi grafikler hakkında konuşalım. Dünle bu günün karşılaştırma grafiği:\
 ![Graph](https://github.com/lysep-corp/COVID-19/blob/master/Graphs/YESTERDAY_COMP_TODAY_TR.jpeg?raw=true)
 

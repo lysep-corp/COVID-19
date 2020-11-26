@@ -11,18 +11,18 @@ In this we will gonna show you where is the Turkey going about [COVID-19 Pandemi
 Note: All the data coming from Türk Ministery of Health's public website. If datas are not up-to-date, probably this is about the [goverment's website](https://covid19.saglik.gov.tr) if our server's are not die. Okey, Let's start than!
 
 First today's datas:
-## :calendar: 25.11.2020 Corona virus Datas:
+## :calendar: 26.11.2020 Corona virus Datas:
 | Data Type         | Today's Datas      | All Time Data      |
 | :---              |    :----           |     :---           |
-| Tests             | 164,547    | 470,915    |
-| Cases             | 6,814   | 12,933   |
-| Cures             | 3,911    | 17,857,777    |
-| Deaths            | 168| 388,907|
+| Tests             | 168,348    | 86,615    |
+| Cases             | 29,132   | 13,113   |
+| Cures             | 3,291    | 18,029,926    |
+| Deaths            | 174| 391,578|
 
-:clock9: `Last Update: 26.11.2020 01:30`
+:clock9: `Last Update: 26.11.2020 20:59`
 \
 \
-There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **3185** less than the goverment's case calculation. It's **93** for deaths, **124257** for tests and **3427** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\
+There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **387991** less than the goverment's case calculation. It's **99** for deaths, **128058** for tests and **2807** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\
 Okey, let's talk about the graphs. Here is today's data is compare with yesterdays:\
 ![YESTERDAY_COMP_TODAY_EN](https://github.com/lysep-corp/COVID-19/blob/master/Graphs/YESTERDAY_COMP_TODAY_EN.jpeg?raw=true)
 
