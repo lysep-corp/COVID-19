@@ -14,12 +14,12 @@ Not: Bütün veriler, Türkiye Sağlık Bakanlığı'ndan sağlanmaktadır. Eğe
 ## :calendar: 26.11.2020 Koronavirüs Verileri:
 | Veri Tipi         | Bugünün Verileri   | Toplam Veriler     |
 | :---              |    :----           |     :---           |
-| Testler           | 168,348    | 18,029,926    |
-| Vakalar           | 29,132   | 86,615    |
-| Tedaviler         | 3,291    | 391,578|
-| Vefatlar          | 174| 13,113   |
+| Testler           | 29,132    | 86,615    |
+| Vakalar           | 174   | 13,113    |
+| Tedaviler         | 168,348    | 18,029,926|
+| Vefatlar          | 3,291| 391,578   |
 
-:clock9: `Son Güncelleme: 26.11.2020 20:59`
+:clock9: `Son Güncelleme: 26.11.2020 21:49`
 \
 \
 Ülkemiz ile alakalı gönderilen verilerde bir gariplik var. Devletin verdiği toplam veriler ile günlük veriler arasında uyuşmazlık mevcut. Eğer her günün verisini birbirine eklersek, Bizim hesaplamamız vakalar için **387991** tane daha az çıkıyor. Bu, ölümler için **99** , testler için **128058** ve tedavi olanlar için **2807** . Neden devletimiz böyle bir şey yapıyor anlamıyoruz. YOKSA VERİLER YANLIŞ MI??!?\
