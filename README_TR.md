@@ -11,20 +11,20 @@ Burada, Türkiye'nin [COVID-19 (Koronavirüs) (Hakkında bilgi almak için tıkl
 Not: Bütün veriler, Türkiye Sağlık Bakanlığı'ndan sağlanmaktadır. Eğer veriler güncel değilse, bu büyük ihtimal [devletin web sitesi](https://covid19.saglik.gov.tr) ile alakalıdır. Tamamdır, o zaman başlayalım!
 
 Öncelikle bugünün verileri:
-## :calendar: 03.02.2021 Koronavirüs Verileri:
+## :calendar: 19.02.2021 Koronavirüs Verileri:
 | Veri Tipi         | Bugünün Verileri   | Toplam Veriler     |
 | :---              |    :----           |     :---           |
-| Testler           | 8,102    | 1,255,464    |
-| Hastalar          | 117   | 26,396   |
-| Tedaviler         | 148,192    | 30,169,339    |
-| Vefatlar          | 8,314| 1,291,949|
+| Testler           | 7,419    | 1,377,721    |
+| Hastalar          | 82   | 27,910   |
+| Tedaviler         | 116,674    | 32,174,550    |
+| Vefatlar          | 7,498| 1,415,297|
 
 Not: Doğru "Vaka" sayısı 25.11.2020'den itibaren verilmeye başladığı için toplam veriyi doğru hesaplayamıyoruz...
 
-:clock9: `Son Güncelleme: 04.02.2021 04:46`
+:clock9: `Son Güncelleme: 20.02.2021 17:36`
 \
 \
-Ülkemiz ile alakalı gönderilen verilerde bir gariplik var. Devletin verdiği toplam veriler ile günlük veriler arasında uyuşmazlık mevcut. Eğer her günün verisini birbirine eklersek, Bizim hesaplamamız vakalar için **1245615** tane daha az çıkıyor. Bu, ölümler için **42** , testler için **107902** ve tedavi olanlar için **1095435** . Neden devletimiz böyle bir şey yapıyor anlamıyoruz. YOKSA VERİLER YANLIŞ MI??!?\
+Ülkemiz ile alakalı gönderilen verilerde bir gariplik var. Devletin verdiği toplam veriler ile günlük veriler arasında uyuşmazlık mevcut. Eğer her günün verisini birbirine eklersek, Bizim hesaplamamız vakalar için **1246298** tane daha az çıkıyor. Bu, ölümler için **7** , testler için **76384** ve tedavi olanlar için **1096251** . Neden devletimiz böyle bir şey yapıyor anlamıyoruz. YOKSA VERİLER YANLIŞ MI??!?\
 Neyse tamam, hadi grafikler hakkında konuşalım. Dünle bu günün karşılaştırma grafiği:\
 ![Graph](https://github.com/lysep-corp/COVID-19/blob/master/Graphs/YESTERDAY_COMP_TODAY_TR.jpeg?raw=true)
 
