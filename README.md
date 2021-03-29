@@ -11,20 +11,20 @@ In this we will gonna show you where is the Turkey going about [COVID-19 Pandemi
 Note: All the data coming from Türk Ministery of Health's public website. If datas are not up-to-date, probably this is about the [goverment's website](https://covid19.saglik.gov.tr) if our server's are not die. Okey, Let's start than!
 
 First today's datas:
-## :calendar: 19.02.2021 Corona virus Datas:
+## :calendar: 28.03.2021 Corona virus Datas:
 | Data Type         | Today's Datas      | All Time Data      |
 | :---              |    :----           |     :---           |
-| Tests             | 116,674    | 32,174,550    |
-| Cases             | 7,419    | 1,377,721    |
-| Cures             | 7,498| 1,415,297|
-| Deaths            | 82   | 27,910   |
+| Tests             | 220,109    | 38,057,055    |
+| Cases             | 29,058    | 1,983,514    |
+| Cures             | 17,164| 1,870,508|
+| Deaths            | 153   | 31,154   |
 
 Note: Correct "Cases" data started on 25.11.2020. So we can't count all time data correctly...
 
-:clock9: `Last Update: 20.02.2021 17:36`
+:clock9: `Last Update: 29.03.2021 20:24`
 \
 \
-There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **1246298** less than the goverment's case calculation. It's **7** for deaths, **76384** for tests and **1096251** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\
+There is something weird going on about our country's data. There is a little bit difference about goverment's all time data and daily datas. If we gonna add everyday's data to each other, Our calculation is **1224659** less than the goverment's case calculation. It's **78** for deaths, **179819** for tests and **1086585** for cured person count. We don't know why our country is doing that. ARE THE DATAS WRONG??!?\
 Okey, let's talk about the graphs. Here is today's data is compare with yesterdays:\
 ![YESTERDAY_COMP_TODAY_EN](https://github.com/lysep-corp/COVID-19/blob/master/Graphs/YESTERDAY_COMP_TODAY_EN.jpeg?raw=true)
 
